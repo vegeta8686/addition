@@ -2,4 +2,5 @@ let x,y;
 var z = x + y;
 pass(x,y){
 console.log(z);
+console.log('heck')
 }
