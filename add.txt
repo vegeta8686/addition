@@ -1,0 +1,3 @@
+let x,y;
+var z = x + y;
+pass(x,y)
